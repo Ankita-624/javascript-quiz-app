@@ -1,7 +1,4 @@
 # javascript-quiz-app
-A simple JavaScript quiz app with multiple-choice questions and score tracking.
-# JavaScript Quiz Application
-
 A simple quiz application built with HTML, CSS, and JavaScript. Users can answer multiple-choice questions and receive a score at the end.
 
 ## Features
